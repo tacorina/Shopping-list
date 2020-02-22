@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    background-color: bisque;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+div {
+    margin-top: 20px;
+}
+
+input {
+    padding: 5px 10px;
+    margin: 10px 0;
+}
+
+table {
+    margin: 0 auto;
+    
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    height: 50px;
+}
+
+  .check-box {
+    text-decoration: line-through;
+}
+.unchecked {
+    text-decoration: none;
+}
+
+.hidden {
+    display: none;
+}
